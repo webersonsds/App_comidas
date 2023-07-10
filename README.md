@@ -1,5 +1,5 @@
 # App_comidas
-   Um aplicativo em React-Native completo que busca as comidas de um api fake que e arquivo db.json,
+   Um aplicativo em React-Native completo que busca as comidas e receitas de de um api fake que e arquivo db.json,
    aplicativo busca o cardapio listado e mostra no fid, podendo ainda adicionar aos favoritos e excluir dos favoritos,
    ainda pode fazer uma busca pra encontrar as comidas desejadas.
 
